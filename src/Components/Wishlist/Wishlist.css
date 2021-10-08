@@ -1,0 +1,297 @@
+/* My Wishlist 1 Item */
+
+.mywishlist {
+    position: absolute;
+    width: 259px;
+    height: 28px;
+    left: 144px;
+    top: 150px;
+  
+    font-family: Oswald;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 23px;
+    line-height: 34px;
+  
+    color: #1f6355;
+  }
+  /* Rectangle 294 */
+  
+  #rect1 {
+    position: absolute;
+    width: 267.65px;
+    height: 400px;
+    left: 144px;
+    top: 230px;
+  
+    background: #ffffff;
+    box-shadow: 0px 8px 20px rgba(207, 207, 207, 0.25);
+    border-radius: 9px;
+  }
+  #rect1 img {
+    /* preroll-stock-2-v1 2 */
+  
+    position: absolute;
+    width: 193px;
+    height: 70px;
+    left: 32px;
+    top: 104px;
+  
+    /* background: url(preroll-stock-2-v1.jpg); */
+  }
+  
+  /* Vector */
+  
+  .far {
+    margin-left: 233px;
+    margin-top: 23px;
+  }
+  /* Rectangle 335 */
+  
+  #rect1 button {
+    position: absolute;
+    width: 232.35px;
+    height: 55.88px;
+    left: 17.65px;
+    top: 306px;
+    color: #ffffff;
+    background: #30875f;
+    box-shadow: 0px 4px 12px rgba(111, 111, 111, 0.25);
+    border-radius: 8px;
+  }
+  /* $ 15.00 */
+  
+  #rect1 h4 {
+    position: absolute;
+    width: 167.65px;
+    height: 30.88px;
+    left: 17.65px;
+    top: 240.06px;
+  
+    font-family: Oswald;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+  
+    color: #121212;
+  }
+  
+  #rect2 {
+    position: absolute;
+    width: 267.65px;
+    height: 400px;
+    left: 430.76px;
+    top: 230px;
+  
+    background: #ffffff;
+    box-shadow: 0px 8px 20px rgba(207, 207, 207, 0.25);
+    border-radius: 9px;
+  }
+  /* Rectangle 294 */
+  
+  #rect2 img {
+  
+  /* eyJidWNrZXQiOiJvbGxhLXByb2R1Y3QtaW1hZ2VzIiwia2V5IjoiZzJnL2JvZ2d5cHVycGxlLnBuZ2I1MTUzZjdjM2RkMzQ0NjE4ZmE0MWY5YzFiMzhiMDFhIiwiZWRpdHMiOnsidG9Gb3JtYXQiOiJ3ZWJwIiwid2VicCI6eyJxdWFsaXR5Ijo3MH0sInJlc2l6ZSI6eyJ3aWR0aCI6N 2 */
+  
+  
+  position: absolute;
+  width: 188px;
+  height: 95px;
+  left: 41.53px;
+  top: 79px;
+  
+  /* background: url(eyJidWNrZXQiOiJvbGxhLXByb2R1Y3QtaW1hZ2VzIiwia2V5IjoiZzJnL2JvZ2d5cHVycGxlLnBuZ2I1MTUzZjdjM2RkMzQ0NjE4ZmE0MWY5YzFiMzhiMDFhIiwiZWRpdHMiOnsidG9Gb3JtYXQiOiJ3ZWJwIiwid2VicCI6eyJxdWFsaXR5Ijo3MH0sInJlc2l6ZSI6eyJ3aWR0aCI6N.png); */
+  
+  }
+  
+  /* Vector */
+  
+  .far {
+    margin-left: 233px;
+    margin-top: 23px;
+  }
+  /* Rectangle 335 */
+  
+  #rect2 button {
+  
+  
+  
+  position: absolute;
+  width: 232.35px;
+  height: 55.88px;
+  left: 17.65px;
+  top: 306px;
+  color: #ffffff;
+  background: #30875F;
+  box-shadow: 0px 4px 12px rgba(111, 111, 111, 0.25);
+  border-radius: 8px;
+  }
+  /* $ 15.00 */
+  
+  #rect2 h4 {
+    position: absolute;
+    width: 167.65px;
+    height: 30.88px;
+    left: 17.65px;
+    top: 240.06px;
+    font-family: Oswald;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+  
+    color: #121212;
+  }
+  /* Rectangle 294 */
+  #rect3 {
+    position: absolute;
+    width: 267.65px;
+    height: 400px;
+    left: 720.47px;
+    top: 230px;
+  
+    background: #ffffff;
+    box-shadow: 0px 8px 20px rgba(207, 207, 207, 0.25);
+    border-radius: 9px;
+  }
+  /* Rectangle 294 */
+  
+  
+    #rect3 img {
+      /* preroll-stock-2-v1 2 */
+    
+      position: absolute;
+      width: 153px;
+      height: 125px;
+      left: 58.53px;
+      top: 49px;
+      
+      /* background: url(eyJidWNrZXQiOiJvbGxhLXByb2R1Y3QtaW1hZ2VzIiwia2V5IjoiZzJnYXJ0cHVycHNoZXJiLmpwZzU3YjJkZWE2NDI0ODUxODA3OWNkMWE1NzhhZGM3IiwiZWRpdHMiOnsidG9Gb3JtYXQiOiJ3ZWJwIiwid2VicCI6eyJxdWFsaXR5Ijo3MH0sInJlc2l6ZSI6eyJ3aWR0aCI6NTAwL.png); */
+      
+    }
+    
+    /* Vector */
+    
+    .far {
+      margin-left: 233px;
+      margin-top: 23px;
+    }
+    /* Rectangle 335 */
+    
+    #rect3 button {
+  /* Rectangle 335 */
+  
+  
+  position: absolute;
+  width: 232.35px;
+  height: 55.88px;
+  left: 17.65px;
+  top: 306px;
+  color: #ffffff;
+  background: #30875F;
+  box-shadow: 0px 4px 12px rgba(111, 111, 111, 0.25);
+  border-radius: 8px;
+    }
+    /* $ 15.00 */
+    
+    #rect3 h4 {
+      position: absolute;
+      width: 167.65px;
+      height: 30.88px;
+      left: 17.65px;
+      top: 240.06px;
+    
+      font-family: Oswald;
+      font-style: normal;
+      font-weight: 500;
+      font-size: 16px;
+      line-height: 24px;
+    
+      color: #121212;
+    }
+  /* Rectangle 294 */
+  #rect4 {
+    position: absolute;
+    width: 267.65px;
+    height: 400px;
+    left: 1007.24px;
+    top: 230px;
+  
+    background: #ffffff;
+    box-shadow: 0px 8px 20px rgba(207, 207, 207, 0.25);
+    border-radius: 9px;
+  }
+  /* Rectangle 294 */
+  
+  
+    #rect4 img {
+      /* preroll-stock-2-v1 2 */
+    
+      position: absolute;
+      width: 102px;
+  height: 125px;
+      left: 58.53px;
+      top: 49px;
+    
+      /* background: url(eyJidWNrZXQiOiJvbGxhLXByb2R1Y3QtaW1hZ2VzIiwia2V5IjoiZzJnL2JvZ2d5Ym9vbnNsaC5wbmczZmI3MmRjZmNhNjE0YzIzYmE5MjdkOWIyOWNhM2RkZSIsImVkaXRzIjp7InRvRm9ybWF0Ijoid2VicCIsIndlYnAiOnsicXVhbGl0eSI6NzB9LCJyZXNpemUiOnsid2lkdGgiO.png); */
+  
+    }
+    
+    /* Vector */
+    
+    .far {
+      margin-left: 233px;
+      margin-top: 23px;
+    }
+    /* Rectangle 335 */
+    
+    #rect4 button {
+  /* Rectangle 335 */
+  
+  
+  position: absolute;
+  width: 232.35px;
+  height: 55.88px;
+  left: 17.65px;
+  top: 306px;
+  color: #ffffff;
+  background: #30875F;
+  box-shadow: 0px 4px 12px rgba(111, 111, 111, 0.25);
+  border-radius: 8px;
+    }
+    /* $ 15.00 */
+    
+    #rect4 h4 {
+      position: absolute;
+      width: 167.65px;
+      height: 30.88px;
+      left: 17.65px;
+      top: 240.06px;
+    
+      font-family: Oswald;
+      font-style: normal;
+      font-weight: 500;
+      font-size: 16px;
+      line-height: 24px;
+    
+      color: #121212;
+    }
+  /* Dama Glue Preroll 2pk - Dama 1 Gm */
+  
+  .Rectangle h3 {
+    position: absolute;
+    width: 260.29px;
+    height: 55.88px;
+    left: 17.65px;
+    top: 220px;
+  
+    font-family: Oswald;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+  
+    color: #1f6355;
+  }
+  

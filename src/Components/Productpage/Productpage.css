@@ -1,0 +1,849 @@
+.productpage {
+    display: grid;
+    grid-template-columns: 1fr 4fr;
+  }
+  .pages2 {
+      /* Suver Haze CBD 3.50g */
+  
+  
+  position: absolute;
+  /* width: 334px;
+  height: 50px;
+  left: 669px;
+  top: 266px;
+  
+  font-family: Oswald;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 34px;
+  line-height: 50px;
+  
+  color: #1F6355; */
+  
+      
+  }
+  .pages2 h5{
+      /* Suver Haze CBD 3.50g */
+  
+  
+  position: absolute;
+  width: 334px;
+  height: 50px;
+  left: 669px;
+  top: 266px;
+  
+  font-family: Oswald;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 34px;
+  line-height: 50px;
+  
+  color: #1F6355;
+  
+  }
+  .gridbutton{
+      display: grid;
+      grid-template-columns: 2fr 2fr;
+      top:400px;
+  }
+  .caret-down{
+      /* Polygon 1 */
+  
+  
+  position: absolute;
+  width: 150px;
+  height: 24.57px;
+  left: 687.28px;
+  top: 363.93px;
+  
+  color: #1F6355;
+  border-radius: 1px;
+  /* transform: rotate(60deg); */
+  
+  
+  }
+  .caret-up{
+      /* Polygon 2 */
+  
+  
+  position: absolute;
+  width: 150px;
+  height: 24.57px;
+  left: 830.32px;
+  top: 363.93px;
+  
+  color: #1F6355;
+  border-radius: 1px;
+  /* transform: rotate(-deg); */
+  
+  
+  }
+  /*  */
+  
+  .pages1 img{
+  
+  
+  position: absolute;
+  width: 360px;
+  height: 360px;
+  left: 195px;
+  top: 273px;
+  
+  /* background: url(strain-10.png); */
+  }
+  /* -- quantity box -- */
+  
+  form {
+      /* width: 300px; */
+      /* margin: 0 auto; */
+      /* text-align: center; */
+      /* padding-top: 50px; */
+      /* Rectangle 295 */
+  
+  
+  position: absolute;
+  width: 130px;
+  height: 47px;
+  left: 669px;
+  top: 421px;
+  
+  border: 1px solid #C9C9C9;
+  box-sizing: border-box;
+  border-radius: 10px;
+    }
+    
+    .value-button {
+      display: inline-block;
+      border: 1px solid #ddd;
+      margin: 0px;
+      width: 40px;
+      height: 20px;
+      text-align: center;
+      vertical-align: middle;
+      padding: 11px 0;
+      background: #eee;
+      -webkit-touch-callout: none;
+      -webkit-user-select: none;
+      -khtml-user-select: none;
+      -moz-user-select: none;
+      -ms-user-select: none;
+      user-select: none;
+    }
+    
+    .value-button:hover {
+      cursor: pointer;
+    }
+    
+    form #decrease {
+      margin-right: -4px;
+      border-radius: 8px 0 0 8px;
+    }
+    
+    form #increase {
+      margin-left: -4px;
+      border-radius: 0 8px 8px 0;
+    }
+    
+    /* form #input-wrap {
+      margin: 0px;
+      padding: 0px;
+    } */
+    
+    input#number {
+      text-align: center;
+      border: none;
+      border-top: 1px solid #ddd;
+      border-bottom: 1px solid #ddd;
+      margin: 0px;
+      width: 40px;
+      height: 40px;
+    }
+    
+    input[type=number]::-webkit-inner-spin-button,
+    input[type=number]::-webkit-outer-spin-button {
+        -webkit-appearance: none;
+        margin: 0;
+    }
+     
+  .btnproduct1 {
+      /* Rectangle 291 */
+  
+  
+  position: absolute;
+  width: 282px;
+  height: 49px;
+  left: 672px;
+  top: 509px;
+  color: white;
+  background: linear-gradient(157.43deg, #1F6355 -95.52%, #2E8052 98.18%);
+  border-radius: 8px;
+  }
+  .btnproduct2{
+      /* Rectangle 291 */
+  
+  
+  position: absolute;
+  width: 230px;
+  height: 49px;
+  left: 971px;
+  top: 509px;
+  color: white;
+  background: #FF6363;
+  box-shadow: 0px 4px 12px rgba(111, 111, 111, 0.25);
+  border-radius: 8px;
+  }
+  .line57{
+      /* Line 57 */
+  
+  
+  position: absolute;
+  width: 530px;
+  height: 0px;
+  left: 671px;
+  top: 600px;
+  
+  border: 1px solid #E2E2E2;
+  
+  }
+  .pages2 h6{
+      /* Description */
+  
+  
+  position: absolute;
+  width: 83px;
+  height: 30px;
+  left: 670px;
+  top: 627px;
+  
+  font-family: Oswald;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 30px;
+  /* identical to box height */
+  
+  
+  color: #000000;
+  
+  }
+  .brand{
+      /* Brand: Black Diamond */
+  
+  
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  
+  }
+  .brandtext{
+      /* Brand: Black Diamond */
+  
+  
+  position: absolute;
+  width: 177px;
+  height: 21px;
+  left: 670px;
+  top: 379px;
+  
+  font-family: Oswald;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 24px;
+  
+  color: #BBBBBB;
+  }
+  .brandvalue{
+      /* Brand: Black Diamond */
+  
+  
+  position: absolute;
+  width: 177px;
+  height: 21px;
+  left: 725px;
+  top: 379px;
+  
+  font-family: Oswald;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 24px;
+  
+  color: blue;
+  
+  }
+  .discription{
+      position: absolute;
+  width: 530px;
+  height: 155px;
+  left: 670px;
+  top: 682px;
+  
+  font-family: Oswald;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 18px;
+  line-height: 160%;
+  /* or 29px */
+  
+  
+  color: #A6A6A6;
+  
+  }
+  .line58{
+      /* Line 58 */
+  
+  
+  position: absolute;
+  width: 530px;
+  height: 0px;
+  left: 671px;
+  top: 813px;
+  
+  border: 1px solid #E2E2E2;
+  }
+  .gridTable{
+      display: grid;
+      grid-template-columns: 2fr 2fr 2fr;
+  
+  }
+  .tab1 {
+      /* Feelings */
+  
+  
+  position: absolute;
+  width: 61px;
+  height: 24px;
+  left: 671px;
+  top: 947px;
+  
+  font-family: Oswald;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 24px;
+  /* identical to box height */
+  
+  text-decoration: none;
+  color: #1F6355;
+  
+  }
+  .tab2{
+      /* Helps with */
+  
+  
+  position: absolute;
+  width: 76px;
+  height: 24px;
+  left: 814px;
+  top: 947px;
+  
+  font-family: Oswald;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 16px;
+  line-height: 24px;
+  /* identical to box height */
+  
+  text-align: center;
+  text-decoration: none;
+  color: #909090;
+  
+  }
+  .tab3{
+  
+      /* Negative */
+  
+  
+  position: absolute;
+  width: 76px;
+  height: 24px;
+  left: 933px;
+  top: 947px;
+  
+  font-family: Oswald;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 16px;
+  line-height: 24px;
+  /* identical to box height */
+  
+  text-align: center;
+  text-decoration: none;
+  color: #909090;
+  
+  }
+  #feeling{
+      text-decoration: none;
+  }
+  .gridcontainer{
+      display: grid;
+      grid-template-rows: 2fr 2fr 2fr 2fr 2fr;
+  }
+  #grid1{
+      /* Energetic 49% */
+  
+  
+      position: absolute;
+      width: 121px;
+      height: 24px;
+      left: 670px;
+      top: 969px;
+      
+      font-family: Oswald;
+      font-style: normal;
+      font-weight: normal;
+      font-size: 16px;
+      line-height: 24px;
+      /* identical to box height */
+      
+      
+      color: #121212;
+  }
+  #grid2{
+      /* Happy 55% */
+  
+  
+  position: absolute;
+  width: 121px;
+  height: 24px;
+  left: 670px;
+  top: 1024px;
+  
+  font-family: Oswald;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 24px;
+  /* identical to box height */
+  
+  
+  color: #121212;
+  }
+  #grid3{
+      /* Relaxed 65% */
+  
+  
+  position: absolute;
+  width: 121px;
+  height: 24px;
+  left: 670px;
+  top: 1079px;
+  
+  font-family: Oswald;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 24px;
+  /* identical to box height */
+  
+  
+  color: #121212;
+  
+  }
+  #grid4{
+      /* Focused 40% */
+  
+  
+  position: absolute;
+  width: 121px;
+  height: 24px;
+  left: 670px;
+  top: 1134px;
+  
+  font-family: Oswald;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 24px;
+  /* identical to box height */
+  
+  
+  color: #121212;
+  
+  }
+  #grid5{
+      /* Uplifted 20% */
+  
+  
+  position: absolute;
+  width: 121px;
+  height: 24px;
+  left: 670px;
+  top: 1189px;
+  
+  font-family: Oswald;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 24px;
+  /* identical to box height */
+  
+  
+  color: #121212;
+  
+  
+  }
+  #gridlinerating1{
+      /* Rectangle 243 */
+  
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+  position: absolute;
+  width: 71px;
+  height: 7px;
+  left: 670px;
+  top: 997px;
+  
+  background: #22B34B;
+  }
+  #gridlinerating2{
+      /* Rectangle 244 */
+  
+  
+  position: absolute;
+  width: 71px;
+  height: 7px;
+  left: 742px;
+  top: 997px;
+  
+  background: #22B34B;
+  }
+  #gridlinerating3{
+      /* Rectangle 248 */
+  
+  
+  position: absolute;
+  width: 34px;
+  height: 7px;
+  left: 814px;
+  top: 997px;
+  
+  background: #22B34B;
+  
+  }
+  #gridlinerating3{
+      /* Rectangle 245 */
+  
+  
+  position: absolute;
+  width: 71px;
+  height: 7px;
+  left: 814px;
+  top: 997px;
+  
+  background: #E8E8E8;
+  }
+  #gridlinerating4{
+      /* Rectangle 253 */
+  
+  
+  position: absolute;
+  width: 71px;
+  height: 7px;
+  left: 886px;
+  top: 997px;
+  
+  background: #E8E8E8;
+  }
+  #gridlinerating5{
+      /* Rectangle 247 */
+  
+  
+  position: absolute;
+  width: 71px;
+  height: 7px;
+  left: 958px;
+  top: 997px;
+  
+  background: #E8E8E8;
+  
+  }
+  #gridlinerating6{
+      /* Rectangle 249 */
+  
+  
+  position: absolute;
+  width: 71px;
+  height: 7px;
+  left: 670px;
+  top: 1052px;
+  
+  background: #22B34B;
+  }
+  #gridlinerating7{
+      /* Rectangle 252 */
+  
+  
+  position: absolute;
+  width: 71px;
+  height: 7px;
+  left: 742px;
+  top: 1052px;
+  
+  background: #22B34B;
+  }
+  #gridlinerating8{
+      /* Rectangle 251 */
+  
+  
+  position: absolute;
+  width: 58px;
+  height: 7px;
+  left: 814px;
+  top: 1052px;
+  
+  background: #22B34B;
+  }
+  #gridlinerating9{
+      /* Rectangle 253 */
+  
+  
+  position: absolute;
+  width: 71px;
+  height: 7px;
+  left: 886px;
+  top: 1052px;
+  
+  background: #E8E8E8;
+  }
+  #gridlinerating10{
+      /* Rectangle 254 */
+  
+  
+  position: absolute;
+  width: 71px;
+  height: 7px;
+  left: 958px;
+  top: 1052px;
+  
+  background: #E8E8E8;
+  
+  }
+  #gridlinerating11{
+      /* Rectangle 255 */
+  
+  
+  position: absolute;
+  width: 71px;
+  height: 7px;
+  left: 670px;
+  top: 1107px;
+  
+  background: #22B34B;
+  
+  }
+  #gridlinerating12{
+  /* Rectangle 261 */
+  
+  
+  position: absolute;
+  width: 71px;
+  height: 7px;
+  left: 742px;
+  top: 1107px;
+  
+  background: #22B34B;
+  
+  }
+  #gridlinerating13{
+  /* Rectangle 259 */
+  
+  
+  position: absolute;
+  width: 71px;
+  height: 7px;
+  left: 814px;
+  top: 1107px;
+  
+  background: #22B34B;
+  }
+  #gridlinerating14{
+  /* Rectangle 273 */
+  
+  
+  position: absolute;
+  width: 47px;
+  height: 7px;
+  left: 886px;
+  top: 1107px;
+  
+  background: #22B34B;
+  }
+  #gridlinerating15{
+      /* Rectangle 265 */
+  
+  
+  position: absolute;
+  width: 71px;
+  height: 7px;
+  left: 958px;
+  top: 1107px;
+  
+  background: #E8E8E8;
+  
+  }
+  #gridlinerating16{
+      /* Rectangle 256 */
+  
+  
+  position: absolute;
+  width: 71px;
+  height: 7px;
+  left: 670px;
+  top: 1162px;
+  
+  background: #22B34B;
+  
+  }
+  #gridlinerating17{
+  /* Rectangle 262 */
+  
+  
+  position: absolute;
+  width: 71px;
+  height: 7px;
+  left: 742px;
+  top: 1162px;
+  
+  background: #22B34B;
+  }
+  #gridlinerating18{
+  /* Rectangle 258 */
+  
+  
+  position: absolute;
+  width: 71px;
+  height: 7px;
+  left: 814px;
+  top: 1162px;
+  
+  background: #E8E8E8;
+  
+  }
+  #gridlinerating19{
+  /* Rectangle 264 */
+  
+  
+  position: absolute;
+  width: 71px;
+  height: 7px;
+  left: 886px;
+  top: 1162px;
+  
+  background: #E8E8E8;
+  }
+  #gridlinerating20{
+  /* Rectangle 266 */
+  
+  
+  position: absolute;
+  width: 71px;
+  height: 7px;
+  left: 958px;
+  top: 1162px;
+  
+  background: #E8E8E8;
+  }
+  #gridlinerating21{
+  /* Rectangle 267 */
+  
+  
+  position: absolute;
+  width: 71px;
+  height: 7px;
+  left: 670px;
+  top: 1217px;
+  
+  background: #22B34B;
+  }
+  #gridlinerating22{
+      /* Rectangle 270 */
+  
+  
+  position: absolute;
+  width: 71px;
+  height: 7px;
+  left: 742px;
+  top: 1217px;
+  
+  background: #E8E8E8;
+  
+  }
+  #gridlinerating23{
+      /* Rectangle 270 */
+  
+  
+  position: absolute;
+  width: 71px;
+  height: 7px;
+  left: 814px;
+  top: 1217px;
+  
+  background: #E8E8E8;
+  
+  }
+  #gridlinerating24{
+      /* Rectangle 270 */
+  
+  
+  position: absolute;
+  width: 71px;
+  height: 7px;
+  left: 886px;
+  top: 1217px;
+  
+  background: #E8E8E8;
+  
+  }
+  #gridlinerating25{
+      /* Rectangle 272 */
+  
+  
+  position: absolute;
+  width: 71px;
+  height: 7px;
+  left: 958px;
+  top: 1217px;
+  
+  background: #E8E8E8;
+  
+  }
+  .Effectpara{
+      /* 2500 reported effects from 525 people */
+
+
+      position: absolute;
+      width: 358px;
+      height: 19px;
+      left: 671px;
+      top: 915px;
+      
+      font-family: Oswald;
+      font-style: normal;
+      font-weight: normal;
+      font-size: 13px;
+      line-height: 19px;
+      
+      color: #AFAFAF;
+      
+  }
+  .Effectheading{
+    position: absolute;
+    width: 50px;
+    height: 30px;
+    left: 670px;
+    top: 847px;
+    
+    font-family: Oswald;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 30px;
+    /* identical to box height */
+    
+    
+    color: #000000;
+  }
+  
+  
+  

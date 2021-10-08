@@ -1,0 +1,98 @@
+.emptylistgrid{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+.emptyleft{
+    /* My Wishlist Empty */
+
+
+position: absolute;
+width: 259px;
+height: 28px;
+left: 144px;
+top: 166px;
+
+font-family: Oswald;
+font-style: normal;
+font-weight: 500;
+font-size: 23px;
+line-height: 34px;
+
+color: #1F6355;
+
+}
+.emptyright{
+    /* My Wishlist Empty */
+
+
+position: absolute;
+width: 259px;
+height: 28px;
+left: 270px;
+top: 166px;
+
+font-family: Oswald;
+font-style: normal;
+font-weight: 500;
+font-size: 23px;
+line-height: 34px;
+
+color: #E5E5E5;
+
+
+}
+.wlimage{
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+}
+.imageleft img{
+    /* Women Power Mobile */
+
+
+position: absolute;
+width: 371px;
+height: 262px;
+left: 399px;
+top: 303px;
+
+/* background: url(Women Power Mobile.png); */
+}
+.wlcontent{
+    
+/* Oops! Nothing to show here.. */
+
+
+position: absolute;
+width: 177px;
+height: 29px;
+left: 785px;
+top: 360px;
+
+font-family: Oswald;
+font-style: normal;
+font-weight: 500;
+font-size: 23px;
+line-height: 34px;
+
+color: #121212;
+
+}
+.wlcontent button{
+   /* Rectangle 335 */
+
+
+position: absolute;
+width: 158px;
+height: 38px;
+left: 0px;
+top: 125px;
+color: white;
+background: #30875F;
+box-shadow: 0px 4px 12px rgba(111, 111, 111, 0.25);
+border-radius: 8px;
+font-family: Oswald;
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 18px;
+}

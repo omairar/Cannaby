@@ -1,0 +1,36 @@
+/* home container css  */
+.baap {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 80px;
+  }
+  .imgweed {
+    display: block;
+    margin-left: 650px;
+    width: 30%;
+    height: 250px;
+    margin-top: 50px;
+  }
+  .left {
+    width: 50%;
+    position: absolute;
+    padding: 10px;
+  }
+  .right {
+    width: 50%;
+    position: absolute;
+  }
+  
+  .main {
+    display: table;
+    color: white;
+    font-family: "Cairo", sans-serif;
+    height: 340px;
+    width: 1030px;
+    background-color: #2c7f5c;
+    border-radius: 5px;
+  }
+  .text {
+    text-align: center;
+  }
