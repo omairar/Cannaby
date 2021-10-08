@@ -1,0 +1,369 @@
+
+.Allflower-container{
+    display: flex;
+    margin-left: 10px;
+
+}
+.Allflower-flex-item{
+width: 182px;
+height: 225px;
+position: absolute;
+/* border: 2px solid green; */
+background: #FFFFFF;
+box-shadow: 2px 8px 20px rgb(216 215 214);
+border-radius: 9px;
+}
+#Allflower-f-item1{
+left: 260px;
+top: 263px;
+}
+#Allflower-f-item2{
+left:  465px;
+top: 263px;
+}
+#Allflower-f-item3{
+left: 665px;
+top: 263px;
+}
+#Allflower-f-item4{
+left: 865px;
+top: 263px;
+}
+#Allflower-f-item5{
+left: 1065px;
+top: 263px;
+}
+.Allflower-p-1 {
+    position: absolute;
+    width: 36px;
+    height: 18px;
+    left: 10px;
+    top: 0px;
+    background: #22B34B;
+    border-radius: 6px;
+    z-index: 1;
+}
+.Allflower-p-1 span {
+    position: absolute;
+    width: 28px;
+    height: 18px;
+    left: 10px;
+    top: 0px;
+    z-index: 5;
+    font-family: Oswald;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 18px;
+   color: #FFFFFF;
+}
+
+#Allflower-f-item1 img {
+    position: absolute;
+    left: 50px;
+    top: 55px;
+    height: 85px;
+    width: 96.56px;
+}
+#Allflower-f-item2 img {
+    position: absolute;
+    left: 51px;
+    top: 55px;
+    height: 85px;
+    width: 69.32px;
+}
+#Allflower-f-item3 img {
+    position: absolute;
+    left: 50px;
+    top: 55px;
+    height: 85px;
+    width: 74.6px;
+}
+#Allflower-f-item4 img {
+    position: absolute;
+    left: 50px;
+    top: 55px;
+    height: 85px;
+    width: 70.56px;
+}
+#Allflower-f-item5 img{
+    position: absolute;
+    left: 55px;
+    top: 55px;
+    height: 85px;
+    width:65.28px;
+} 
+.Allflower-container-1{
+    display: flex;
+}
+#Allflower-f-item11{
+left:260px;
+top: 540px;
+}
+#Allflower-f-item202{
+left: 465px;
+top: 540px;
+}
+#Allflower-f-item33{
+left:665px;
+top: 540px;
+}
+#Allflower-f-item44{
+left: 865px;
+top: 540px;
+}
+#Allflower-f-item55{
+left: 1065px;
+top: 540px;
+}
+.Allflower-p-11 {
+    position: absolute;
+    width: 36px;
+    height: 18px;
+    left: 10px;
+    top: 0px;
+    background: #22B34B;
+    border-radius: 6px;
+    z-index: 1;
+}
+.Allflower-p-11 span {
+    position: absolute;
+    width: 28px;
+    height: 18px;
+    left: 10px;
+    top: 0px;
+    z-index: 5;
+    font-family: Oswald;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 18px;
+   color: #FFFFFF;
+}
+#Allflower-f-item11 img {
+    position: absolute;
+    left: 60px;
+    top: 55px;
+    height: 85px;
+    width: 54px;
+}
+#Allflower-f-item202 img {
+    position: absolute;
+    left: 50px;
+    top: 55px;
+    height: 85px;
+    width: 74.6px;
+}
+#Allflower-f-item33 img {
+    position: absolute;
+    left: 55px;
+    top: 55px;
+    height: 85px;
+    width: 70.57px;
+}
+#Allflower-f-item44 img {
+    position: absolute;
+    left: 55px;
+    top: 55px;
+    height: 85px;
+    width: 54px;
+}
+#Allflower-f-item55 img {
+    position: absolute;
+    left: 60px;
+    top: 55px;
+    height: 85px;
+    width: 65.28px;
+}
+.Allflower-container-2{
+    display: flex;
+}
+#Allflower-f-item21{
+left: 260px;
+top: 820px;
+}
+#Allflower-f-item22{
+left: 465px;
+top: 820px;
+}
+#Allflower-f-item23{
+left: 665px;
+top: 820px;
+}
+#Allflower-f-item24{
+left: 865px;
+top:820px;
+}
+#Allflower-f-item25{
+left: 1065px;
+top:820px;
+}
+#Allflower-f-item21 img {
+    position: absolute;
+    left: 50px;
+    top: 50px;
+    height: 85px;
+    width: 96.56px;
+}
+#Allflower-f-item22 img {
+    position: absolute;
+    left: 50px;
+    top: 55px;
+    height: 85px;
+    width: 69.32px;
+}
+#Allflower-f-item23 img {
+    position: absolute;
+    left: 50px;
+    top: 55px;
+    height: 85px;
+    width: 74.6px;
+}
+#Allflower-f-item24 img {
+    position: absolute;
+    left: 50px;
+    top: 55px;
+    height: 85px;
+    width: 70.57px;
+}
+#Allflower-f-item25 img{
+    position: absolute;
+    left: 55px;
+    top: 55px;
+    height: 85px;
+    width:65.28px;
+} 
+.Allflower-container-3{
+ display: flex;
+}
+#Allflower-f-item10{
+left: 260px;
+top: 1100px
+}
+#Allflower-f-item20{
+left: 465px;
+top: 1100px
+}
+#Allflower-f-item30{
+left: 665px;
+top: 1100px
+}
+#Allflower-f-item40{
+left:865px;
+top:1100px
+}
+#Allflower-f-item50{
+left: 1065px;
+top: 1100px
+}
+#Allflower-f-item10 img {
+    position: absolute;
+    left: 60px;
+    top: 55px;
+    height: 85px;
+    width: 54px;
+}
+#Allflower-f-item20 img {
+    position: absolute;
+    left: 50px;
+    top: 55px;
+    height: 85px;
+    width: 74.6px;
+}
+#Allflower-f-item30 img {
+    position: absolute;
+    left: 55px;
+    top: 55px;
+    height: 85px;
+    width: 70.57px;
+}
+#Allflower-f-item40 img {
+    position: absolute;
+    left: 55px;
+    top: 55px;
+    height: 85px;
+    width: 54px;
+}
+#Allflower-f-item50 img {
+    position: absolute;
+    left: 55px;
+    top: 55px;
+    height: 85px;
+    width: 69.32px;
+}
+.Allflower-container .Allflower-flex-item .Allflower-box104{
+    position: absolute;
+    width: 177px;
+    height:65px;
+    left: 10px;
+    top: 155px;
+    /* border: 2px solid black; */
+    z-index: 1;
+}
+.Allflower-box104 a{
+font-family: Oswald;
+font-style: normal;
+font-weight: 500;
+font-size: 13px;
+line-height: 19px;
+color: #1F6355;
+}
+.Allflower-box104 p{
+    position: absolute;
+    width: 114px;
+    height: 21px;
+    left: 0px;
+    top: 25px;
+    font-family: Oswald;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 21px;
+    color: #121212;
+}
+.Allflower-box104 p span{
+position: absolute;
+width: 49px;
+height: 15px;
+left: 50px;
+top: 5px;
+font-family: Oswald;
+font-style: normal;
+font-weight: 300;
+font-size: 10px;
+line-height: 15px;
+color: #919191;
+}
+.Allflower-box104 .fa-heart{
+    position: absolute;
+    color: red;
+    left: 140px;
+    top: 5px;
+}
+.Allflower-container-1 .Allflower-flex-item .Allflower-box104{
+    position: absolute;
+    width: 177px;
+    height:65px;
+    left: 10px;
+    top: 155px;
+    /* border: 2px solid black; */
+    z-index: 1;
+}
+.Allflower-container-2 .Allflower-flex-item .Allflower-box104{
+   position: absolute;
+    width: 177px;
+    height:65px;
+    left: 10px;
+    top: 155px;
+    /* border: 2px solid black; */
+    z-index: 1;
+}
+.Allflower-container-3 .Allflower-flex-item .Allflower-box104{
+     position: absolute;
+    width: 177px;
+    height:65px;
+    left: 10px;
+    top: 155px;
+    /* border: 2px solid black; */
+    z-index: 1;
+}

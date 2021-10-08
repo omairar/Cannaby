@@ -1,0 +1,369 @@
+.Product-container{
+    display: flex;
+    margin-left: 10px;
+
+}
+.Product-flex-item{
+width: 182px;
+height: 225px;
+position: absolute;
+/* border: 2px solid green; */
+background: #FFFFFF;
+box-shadow: 2px 8px 20px rgb(216 215 214);
+border-radius: 9px;
+}
+#Product-f-item1{
+left: 260px;
+top: 263px;
+}
+#Product-f-item2{
+left:  465px;
+top: 263px;
+}
+#Product-f-item3{
+left: 665px;
+top: 263px;
+}
+#Product-f-item4{
+left: 865px;
+top: 263px;
+}
+#Product-f-item5{
+left: 1065px;
+top: 263px;
+}
+.Product-p-1 {
+    position: absolute;
+    width: 36px;
+    height: 18px;
+    left: 10px;
+    top: 0px;
+    background: #22B34B;
+    border-radius: 6px;
+    z-index: 1;
+}
+.Product-p-1 span {
+    position: absolute;
+    width: 28px;
+    height: 18px;
+    left: 10px;
+    top: 0px;
+    z-index: 5;
+    font-family: Oswald;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 18px;
+   color: #FFFFFF;
+}
+
+#Product-f-item1 img {
+    position: absolute;
+    left: 5px;
+    top: 55px;
+    height: 85px;
+    width: 175px;
+}
+#Product-f-item2 img{
+     position: absolute;
+    left: 6px;
+    top: 55px;
+    height: 85px;
+    width: 170px;
+}
+#Product-f-item3 img{
+     position: absolute;
+    left: 26px;
+    top: 55px;
+    height: 85px;
+    width:  131px;
+}
+#Product-f-item4 img{
+     position: absolute;
+    left: 30px;
+    top: 55px;
+    height: 85px;
+    width: 124px ;
+}
+#Product-f-item5 img{
+    position: absolute;
+    left: 55px;
+    top: 55px;
+    height: 85px;
+    width:65.28px;
+} 
+.Product-container-1{
+    display: flex;
+}
+#Product-f-item11{
+left:260px;
+top: 540px;
+}
+#Product-f-item202{
+left: 465px;
+top: 540px;
+}
+#Product-f-item33{
+left:665px;
+top: 540px;
+}
+#Product-f-item44{
+left: 865px;
+top: 540px;
+}
+#Product-f-item55{
+left: 1065px;
+top: 540px;
+}
+.Product-p-11 {
+    position: absolute;
+    width: 36px;
+    height: 18px;
+    left: 10px;
+    top: 0px;
+    background: #22B34B;
+    border-radius: 6px;
+    z-index: 1;
+}
+.Product-p-11 span {
+    position: absolute;
+    width: 28px;
+    height: 18px;
+    left: 10px;
+    top: 0px;
+    z-index: 5;
+    font-family: Oswald;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 18px;
+   color: #FFFFFF;
+}
+#Product-f-item11 img {
+    position: absolute;
+    left: 32px;
+    top: 55px;
+    height: 85px;
+    width: 120px;
+}
+#Product-f-item202 img {
+    position: absolute;
+    left: 45px;
+    top: 55px;
+    height: 85px;
+    width: 91.4px;
+}
+#Product-f-item33 img {
+    position: absolute;
+    left: 82px;
+    top: 55px;
+    height: 85px;
+    width: 17px;
+}
+#Product-f-item44 img {
+    position: absolute;
+    left: 49px;
+    top: 55px;
+    height: 85px;
+    width: 80px;
+}
+#Product-f-item55 img {
+    position: absolute;
+    left: 60px;
+    top: 55px;
+    height: 85px;
+    width: 65.28px;
+}
+.Product-container-2{
+    display: flex;
+}
+#Product-f-item21{
+left: 260px;
+top: 820px;
+}
+#Product-f-item22{
+left: 465px;
+top: 820px;
+}
+#Product-f-item23{
+left: 665px;
+top: 820px;
+}
+#Product-f-item24{
+left: 865px;
+top:820px;
+}
+#Product-f-item25{
+left: 1065px;
+top:820px;
+}
+#Product-f-item21 img {
+    position: absolute;
+    left: 5px;
+    top: 50px;
+    height: 85px;
+    width: 175px;
+}
+#Product-f-item22 img{
+    position: absolute;
+    left: 6px;
+    top: 55px;
+    height: 85px;
+    width: 170px;
+}
+#Product-f-item23 img{
+     position: absolute;
+    left: 26px;
+    top: 55px;
+    height: 85px;
+    width:  131px;
+}
+#Product-f-item24 img{
+     position: absolute;
+    left: 30px;
+    top: 55px;
+    height: 85px;
+    width: 124px ;
+}
+#Product-f-item25 img{
+    position: absolute;
+    left: 55px;
+    top: 55px;
+    height: 85px;
+    width:65.28px;
+} 
+.Product-container-3{
+ display: flex;
+}
+#Product-f-item10{
+left: 260px;
+top: 1100px
+}
+#Product-f-item20{
+left: 465px;
+top: 1100px
+}
+#Product-f-item30{
+left: 665px;
+top: 1100px
+}
+#Product-f-item40{
+left:865px;
+top:1100px
+}
+#Product-f-item50{
+left: 1065px;
+top: 1100px
+}
+#Product-f-item10 img {
+    position: absolute;
+    left: 32px;
+    top: 55px;
+    height: 85px;
+    width: 120px;
+}
+#Product-f-item20 img {
+    position: absolute;
+    left: 45px;
+    top: 55px;
+    height: 85px;
+    width: 91.4px;
+}
+#Product-f-item30 img {
+    position: absolute;
+    left: 82px;
+    top: 55px;
+    height: 85px;
+    width: 17px;
+}
+#Product-f-item40 img {
+    position: absolute;
+    left: 49px;
+    top: 55px;
+    height: 85px;
+    width: 80px;
+}
+#Product-f-item50 img {
+    position: absolute;
+    left: 60px;
+    top: 55px;
+    height: 85px;
+    width: 65.28px;
+}
+
+.Product-container .Product-flex-item .Product-box104{
+    position: absolute;
+    width: 177px;
+    height:65px;
+    left: 10px;
+    top: 155px;
+    /* border: 2px solid black; */
+    z-index: 1;
+}
+.Product-box104 a{
+font-family: Oswald;
+font-style: normal;
+font-weight: 500;
+font-size: 13px;
+line-height: 19px;
+color: #1F6355;
+}
+.Product-box104 p{
+    position: absolute;
+    width: 114px;
+    height: 21px;
+    left: 0px;
+    top: 25px;
+    font-family: Oswald;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 21px;
+    color: #121212;
+}
+.Product-box104 p span{
+position: absolute;
+width: 49px;
+height: 15px;
+left: 50px;
+top: 5px;
+font-family: Oswald;
+font-style: normal;
+font-weight: 300;
+font-size: 10px;
+line-height: 15px;
+color: #919191;
+}
+.fa-heart{
+    position: absolute;
+    color: red;
+    left: 140px;
+    top: 5px;
+}
+.Product-container-1 .Product-flex-item .Product-box104{
+    position: absolute;
+    width: 177px;
+    height:65px;
+    left: 10px;
+    top: 155px;
+    /* border: 2px solid black; */
+    z-index: 1;
+}
+.Product-container-2 .Product-flex-item .Product-box104{
+   position: absolute;
+    width: 177px;
+    height:65px;
+    left: 10px;
+    top: 155px;
+    /* border: 2px solid black; */
+    z-index: 1;
+}
+.Product-container-3 .Product-flex-item .Product-box104{
+     position: absolute;
+    width: 177px;
+    height:65px;
+    left: 10px;
+    top: 155px;
+    /* border: 2px solid black; */
+    z-index: 1;
+}

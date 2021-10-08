@@ -1,0 +1,274 @@
+.loginloginbdy{
+    background: #E5E5E5;
+    font-family: 'Oswald', sans-serif;
+}
+.logincontainer{
+    position: absolute;
+width: 414px;
+height: 572px;
+left: 0px;
+top: 0px;
+
+background: #FFFFFF;
+box-shadow: 0px -8px 40px rgba(143, 143, 143, 0.25);
+border-radius: 9px;
+}
+.loginhead{
+position: absolute;
+width: 335px;
+height: 54px;
+left: 29px;
+top: 28px;
+
+font-family: Oswald;
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 150%;
+/* or 27px */
+
+
+color: #1F6355;
+}
+.loginmsg{
+position: absolute;
+width: 335px;
+height: 27px;
+left: 29px;
+top: 59px;
+
+font-family: Oswald;
+font-style: normal;
+font-weight: 300;
+font-size: 18px;
+line-height: 150%;
+/* identical to box height, or 27px */
+
+
+color: #B6B6B6;
+
+}
+.loginbtnbrdr{
+position: absolute;
+font-family: Oswald;
+left: 6.76%;
+right: 7%;
+top: 18.71%;
+bottom: 72.73%;
+width: 357px;
+color: white;
+border: none;
+cursor: pointer;
+background: linear-gradient(157.43deg, #1F6355 -95.52%, #2E8052 98.18%);
+border-radius: 8px;
+}
+
+.loginbtnbrdr:active{
+    box-shadow: 3px 3px #1d5337;
+}
+
+.loginbtn{
+position: absolute;
+width: 123.43px;
+height: 30px;
+left: 144.78px;
+top: 119px;
+background:linear-gradient(157.43deg, #1F6355 -95.52%, #2E8052 98.18%);
+font-family: Oswald;
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+text-align: center;
+
+color: #FFFFFF;
+
+
+}
+.loginline{
+ position: absolute;
+width: 357px;
+height: 0px;
+left: 28px;
+top: 185px;
+
+border: 1px solid #E8E8E8;
+transform: rotate(-180deg);
+
+}
+
+
+.loginlist1 i{
+     position: absolute;
+    left: 7%;
+    right: 88.16%;
+    top: 41.1%;
+    bottom: 59.09%;
+    color: #1F6355;
+}
+
+
+.loginlist1 p{
+    position: absolute;
+width: 49px;
+height: 27px;
+left: 72px;
+top: 211px;
+
+font-family: Oswald;
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 27px;
+/* identical to box height */
+
+
+color: #1F6355;
+
+}
+.loginlist2 i{
+    position: absolute;
+left: 7%;
+right: 88.16%;
+top: 50.03%;
+bottom: 49.6%;
+color: #1F6355 ;
+/* background: #1F6355; */
+}
+.loginlist2 p{
+  position: absolute;
+width: 57px;
+height: 27px;
+left: 72px;
+top: 262px;
+
+font-family: Oswald;
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 27px;
+/* identical to box height */
+
+
+color: #1F6355;
+}
+.loginlist3 i{
+position: absolute;
+left: 7%;
+right: 88.16%;
+top: 58.6%;
+bottom: 40.73%;
+
+color: #1F6355;
+}
+
+.loginlist3 p{
+  position: absolute;
+width: 79px;
+height: 27px;
+left: 72px;
+top: 312px;
+
+font-family: Oswald;
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 27px;
+/* identical to box height */
+
+
+color: #1F6355;
+
+}
+.loginline1{
+ position: absolute;
+width: 357px;
+height: 0px;
+left: 28px;
+top: 385px;
+
+border: 1px solid #E8E8E8;
+transform: rotate(-180deg);
+
+}
+.loginlist4 p{
+    position: absolute;
+width: 88px;
+height: 27px;
+left: 72px;
+top: 393px;
+
+font-family: Oswald;
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 27px;
+/* identical to box height */
+
+
+color: #1F6355;
+
+
+}
+.loginlist5 p{
+position: absolute;
+width: 111px;
+height: 27px;
+left: 72px;
+top: 446px;
+
+font-family: Oswald;
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 27px;
+/* identical to box height */
+
+
+color: #1F6355;
+}
+.loginlist6 p{
+    position: absolute;
+width: 88px;
+height: 27px;
+left: 72px;
+top: 499px;
+
+font-family: Oswald;
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 27px;
+/* identical to box height */
+
+
+color: #1F6355;
+
+}
+.loginlist4 i{
+position: absolute;
+left: 7%;
+right: 88.16%;
+top: 73.20%;
+bottom: 27.16%;
+
+color: #1F6355;
+}
+.loginlist5 i{
+position: absolute;
+left: 7.49%;
+right: 88.65%;
+top: 82%;
+bottom: 17.83%;
+
+color: #1F6355;
+}
+.loginlist6 i{
+position: absolute;
+left: 7%;
+right: 88.16%;
+top: 91.5%;
+bottom: 8.92%;
+
+color: #1F6355;
+}
