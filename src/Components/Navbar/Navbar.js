@@ -6,7 +6,7 @@ const Navbar = () => {
     {/* use exact in order to match same component */}
 
     return (
-        <p>hello to nav bar v2</p>
+        <p>hello to nav bar v3</p>
         
     )
 }
